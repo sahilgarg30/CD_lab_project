@@ -7,7 +7,7 @@ How to run
 In the Final project directory, just type the following commands
 
 	make
-	compiler name_of_file
+	./compiler name_of_file
 
 where "name_of_file" is the input test file (like "testcase1.txt”).
 You should have gcc, version 5.0 or above installed on your machine.
