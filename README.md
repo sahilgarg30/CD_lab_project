@@ -4,6 +4,7 @@ This project was created as a part of the course lab ”Compiler Design”. The 
 Instructor : Roopashri Shetty
 
 How to run
+
 In the main project directory, just type the following commands
 
 	make
