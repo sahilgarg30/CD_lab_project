@@ -1,5 +1,5 @@
 Compiler Project : ERPLAG
-This project was created by a group of 3 Students- Sahil Garg, Jenit Jain and Amrit Goyal as a part of the course lab ”Compiler Design”. The language is "ERPLAG" and its specifications are written down in the PDF attached.
+This project was created as a part of the course lab ”Compiler Design”. The language is "ERPLAG" and its specifications are written down in the PDF attached.
 
 Instructor : Roopashri Shetty
 
