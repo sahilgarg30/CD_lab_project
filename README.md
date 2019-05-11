@@ -1,5 +1,5 @@
 Compiler Project : ERPLAG
-This project was created as a part of the course lab ”Compiler Design”. The language is "ERPLAG" and its specifications are written down in the PDF attached.
+This project was created as a part of the course lab ”Compiler Design”. The language the compiler is developed for is "ERPLAG" and its specifications are written down in the PDF attached.
 
 Instructor : Roopashri Shetty
 
